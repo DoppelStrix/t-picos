@@ -1,4 +1,5 @@
 # t-picos
 Tópicos Especiais em Informatica
 
-# alteracao
+
+# alteracao 2
